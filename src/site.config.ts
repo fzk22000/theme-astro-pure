@@ -28,7 +28,7 @@ export const siteConfig: SiteConfig = {
     url: 'https://icp.gov.moe/?keyword=APTX4869',
     text: '萌ICP备APTX4869号'
   },
-  walineServerUrl: 'https://astro-theme-pure-waline.arthals.ink',
+  walineServerUrl: 'https://homeofchernoff.com.cn',
   applyFriendTip: {
     name: 'Astro Theme Pure',
     slogan: '求知若愚，虚怀若谷',

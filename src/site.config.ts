@@ -60,6 +60,6 @@ export const menuLinks: MenuLinks = [
   },
   {
     link: '/about',
-    label: 'About'
+    label: 'About me'
   }
 ]

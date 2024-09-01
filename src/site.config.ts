@@ -30,9 +30,9 @@ export const siteConfig: SiteConfig = {
   },
   walineServerUrl: 'https://api.homeofchernoff.com.cn',
   applyFriendTip: {
-    name: 'Astro Theme Pure',
-    slogan: '求知若愚，虚怀若谷',
-    url: 'https://astro-theme-pure.vercel.app/',
+    name: 'Chernoff没bound住',
+    slogan: '我也真没绷的住',
+    url: 'theme-astro-pure-v552-dsp67r80c-fzk22000s-projects.vercel.app',
     avatar: 'https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200'
   }
 }
